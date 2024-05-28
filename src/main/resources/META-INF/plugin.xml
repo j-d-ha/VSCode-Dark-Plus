@@ -1,12 +1,18 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.jdha.vscodedarkplus</id>
-    <name>VSCode-Dark-Plus</name>
+    <id>vscode-dark-plus</id>
+    <name>Dark+</name>
+    <version>1.0</version>
+    <idea-version since-build="213.7172.25"/>
     <vendor>j-d-ha</vendor>
+    <description><![CDATA[
+    This is a theme to make JetBrains IDEs look like Visual Studio Code Dark+ theme.
+    ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.jdha.vscodedarkplus" path="/theme/vscode-dark-plus.theme.json"/>
+        <themeProvider id="de6fb66b-df4f-418d-aeb0-245eeaa63bf1" path="/theme/vscode-dark-plus.theme.json"/>
+        <themeProvider id="177261f9-d3d8-4d6e-ae31-2dd15f7f7cc7" path="/theme/vscode-dark-plus-alt.theme.json"/>
     </extensions>
 </idea-plugin>

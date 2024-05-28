@@ -1,5 +1,5 @@
 {
-  "name": "Dark+",
+  "name": "Dark+ Alt",
   "dark": true,
   "author": "Jonas Ha",
   "editorScheme": "/theme/vscode-dark-plus.xml",
@@ -22,7 +22,7 @@
       "lightSelectionInactiveBackground": "#555657",
       "lightSelectionInactiveForeground": "#DFDFE0",
       "disabledBackground": "#323333",
-      "inactiveBackground": "lightGray",
+      "inactiveBackground": "mediumGray",
       "disabledForeground": "#737374",
       "disabledText": "#737374",
       "inactiveForeground": "#737374",
