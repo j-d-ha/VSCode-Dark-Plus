@@ -1,7 +1,11 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# VSCode-Dark-Plus Changelog
+# Dark-Plus-Theme Changelog
 
-## [Unreleased]
+## Unreleased
+
+## 1.0.0 - 2024-05-28
+
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+
+- Initial release.
