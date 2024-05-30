@@ -1,0 +1,32 @@
+{
+  "editor": {
+    "vs_purple": "C586C0",
+    "vs_green": "4EC9B0",
+    "vs_light_blue": "9CDCFE",
+    "vs_medium_blue": "4FC1FF",
+    "vs_dark_blue": "569CD6",
+    "vs_light_yellow": "DCDCAA",
+    "vs_light_green": "B5CEA8",
+    "vs_brown": "CE9178",
+    "vs_comment_green": "6A9955",
+    "vs_medium_orange": "FFC66D",
+    "vs_comment_gray": "5C6370"
+  },
+  "jetbrains_vscode_theme": {
+    "purple_": "CC85C6",
+    "green_": "47CCB1",
+    "light blue": "94DBFD",
+    "medium blue": "4FC1FF",
+    "dark blue": "47A2ED",
+    "light yellow": "E6E6AA",
+    "light green": "B4CDA8",
+    "brown_": "CD9069",
+    "comment green": "699856",
+    "dark green": "3D8F7F"
+  },
+  "brackets": {
+    "rainbow_yellow": "FFD700",
+    "rainbow_pink": "DA70D6",
+    "rainbow_blue": "179fff"
+  }
+}

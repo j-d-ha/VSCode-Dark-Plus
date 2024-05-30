@@ -1,4 +1,4 @@
-# Dark+ Theme for Jetbrains IDEs
+# Dark+ Theme for JetBrains IDEs
 
 ![Build](https://github.com/j-d-ha/VSCode-Dark-Plus/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
@@ -6,7 +6,7 @@
 
 <!-- Plugin description -->
 
-This is a dark theme based off of the VSCode Dark+ theme for Jetbrains IDEs.
+This is a dark theme based off of the VSCode Dark+ theme for JetBrains IDEs.
 
 <!-- Plugin description end -->
 
@@ -28,4 +28,4 @@ This is a dark theme based off of the VSCode Dark+ theme for Jetbrains IDEs.
 
 ## Acknowledgements
 
-This theme is heavily inspired by [VSCode Theme for Jetbrains IDEs](https://github.com/dinbtechit/vscode-theme).
+This theme is heavily inspired by [VSCode Theme for JetBrains IDEs](https://github.com/dinbtechit/vscode-theme).
