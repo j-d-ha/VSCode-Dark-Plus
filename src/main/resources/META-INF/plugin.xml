@@ -1,6 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>dark-plus-theme</id>
+    <version>1.0.2</version>
     <name>Dark+</name>
     <idea-version since-build="213.7172.25"/>
     <vendor>j-d-ha</vendor>

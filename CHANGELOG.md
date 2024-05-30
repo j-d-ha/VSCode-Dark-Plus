@@ -2,9 +2,15 @@
 
 # Dark-Plus-Theme Changelog
 
-## Unreleased
+## [Unreleased]
 
-## 1.0.0 - 2024-05-28
+## [1.0.1] - 2024-05-30
+
+### Added
+
+- Updated naming and colors.
+
+## [1.0.0] - 2024-05-28
 
 ### Added
 
