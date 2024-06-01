@@ -1,9 +1,9 @@
-package com.github.jdha.vscodedarkplus.services
+package com.github.jdha.darkplustheme.services
 
+import com.github.jdha.darkplustheme.MyBundle
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.jdha.vscodedarkplus.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

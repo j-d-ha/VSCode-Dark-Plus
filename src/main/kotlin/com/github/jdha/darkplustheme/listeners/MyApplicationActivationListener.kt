@@ -1,4 +1,4 @@
-package com.github.jdha.vscodedarkplus.listeners
+package com.github.jdha.darkplustheme.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

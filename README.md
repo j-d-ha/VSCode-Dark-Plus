@@ -1,6 +1,6 @@
 # Dark+ Theme for JetBrains IDEs
 
-![Build](https://github.com/j-d-ha/VSCode-Dark-Plus/workflows/Build/badge.svg)
+![Build](https://github.com/j-d-ha/Dark-Plus-Theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
@@ -20,7 +20,7 @@ This is a dark theme based off of the VSCode Dark+ theme for JetBrains IDEs.
 
 - Manually:
 
-  Download the [latest release](https://github.com/j-d-ha/VSCode-Dark-Plus/releases/latest) and install it manually
+  Download the [latest release](https://github.com/j-d-ha/Dark-Plus-Theme/releases/latest) and install it manually
   using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 

@@ -1,4 +1,4 @@
-package com.github.jdha.vscodedarkplus
+package com.github.jdha.darkplustheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
