@@ -7,12 +7,13 @@
     "darkGray": "#1e1e1e",
     "mediumGray": "#252526",
     "mediumGrayAlt": "#2d2d2d",
-    "lightGray": "#333333",
-    "lightGrayAlt": "#424243"
+    "lightGray1": "#333333",
+    "lightGrayAlt": "#424243",
+    "borderGray1": "#414141"
   },
   "ui": {
     "*": {
-      "background": "lightGray",
+      "background": "lightGray1",
       "foreground": "#DFDFE0",
       "infoForeground": "#A9A9AA",
       "selectionInactiveBackground": "#555657",
@@ -22,14 +23,14 @@
       "lightSelectionInactiveBackground": "#555657",
       "lightSelectionInactiveForeground": "#DFDFE0",
       "disabledBackground": "#323333",
-      "inactiveBackground": "lightGray",
+      "inactiveBackground": "lightGray1",
       "disabledForeground": "#737374",
       "disabledText": "#737374",
       "inactiveForeground": "#737374",
       "acceleratorForeground": "#D0D0D9",
       "acceleratorSelectionForeground": "#D0D0D9",
-      "borderColor": "#414141",
-      "disabledBorderColor": "#414141",
+      "borderColor": "borderGray1",
+      "disabledBorderColor": "borderGray1",
       "focusColor": "#24648D",
       "focusedBorderColor": "#4C8CB5",
       "separatorForeground": "#5A5B5C",
@@ -40,8 +41,8 @@
     "ActionButton": {
       "hoverBackground": "#5A5B5C",
       "hoverBorderColor": "#5A5B5C",
-      "pressedBackground": "#414141",
-      "pressedBorderColor": "#414141"
+      "pressedBackground": "borderGray1",
+      "pressedBorderColor": "borderGray1"
     },
     "Button": {
       "startBackground": "#424242",
@@ -61,8 +62,8 @@
       }
     },
     "Borders": {
-      "color": "#393A3B",
-      "ContrastBorderColor": "#4b4c4d"
+      "color": "borderGray1",
+      "ContrastBorderColor": "borderGray1"
     },
     "ComboBox": {
       "nonEditableBackground": "#4f5051",
@@ -90,9 +91,9 @@
       "background": "#909090",
       "foreground": "#000000"
     },
-    "DebuggerPopup.borderColor": "#414141",
+    "DebuggerPopup.borderColor": "borderGray1",
     "DefaultTabs": {
-      "borderColor": "#484949",
+      "borderColor": "borderGray1",
       "background": "#2A2B2B",
       "inactiveUnderlineColor": "#24648D",
       "hoverBackground": "#262727",
@@ -110,7 +111,7 @@
     "EditorTabs": {
       "tabInsets": true,
       "underlinedTabBackground": "darkGray",
-      "background": "lightGray",
+      "background": "lightGray1",
       "underlineHeight": 2,
       "inactiveColoredFileBackground": "#2d281d"
     },
@@ -145,8 +146,7 @@
       }
     },
     "ToolWindow": {
-      "background": "mediumGray",
-      "Header.borderColor": "#ffffff12"
+      "background": "mediumGray"
     },
     "MainToolbar": {
       "background": "lightGrayAlt"

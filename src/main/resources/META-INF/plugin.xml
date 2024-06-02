@@ -1,7 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>dark-plus-theme</id>
-    <version>1.0.2</version>
     <name>Dark+</name>
     <idea-version since-build="213.7172.25"/>
     <vendor>j-d-ha</vendor>
@@ -12,7 +11,9 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="de6fb66b-df4f-418d-aeb0-245eeaa63bf1" path="/theme/vscode-dark-plus.theme.json"/>
-        <themeProvider id="177261f9-d3d8-4d6e-ae31-2dd15f7f7cc7" path="/theme/vscode-dark-plus-alt.theme.json"/>
+        <themeProvider order="first" id="de6fb66b-df4f-418d-aeb0-245eeaa63bf1"
+                       path="/theme/vscode-dark-plus.theme.json"/>
+        <themeProvider order="last" id="177261f9-d3d8-4d6e-ae31-2dd15f7f7cc7"
+                       path="/theme/vscode-dark-plus-alt.theme.json"/>
     </extensions>
 </idea-plugin>

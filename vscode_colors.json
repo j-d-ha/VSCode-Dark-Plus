@@ -28,5 +28,17 @@
     "rainbow_yellow": "FFD700",
     "rainbow_pink": "DA70D6",
     "rainbow_blue": "179fff"
+  },
+  "vsc_colors": {
+    "addedResourceForeground": "#81b88b",
+    "conflictingResourceForeground": "#e4676b",
+    "deletedResourceForeground": "#c74e39",
+    "ignoredResourceForeground": "#8c8c8c",
+    "modifiedResourceForeground": "#e2c08d",
+    "renamedResourceForeground": "#73c991",
+    "stageDeletedResourceForeground": "#c74e39",
+    "stageModifiedResourceForeground": "#e2c08d",
+    "submoduleResourceForeground": "#8db9e2",
+    "untrackedResourceForeground": "#73c991"
   }
 }

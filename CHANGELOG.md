@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## [1.0.3] - 2024-06-02
+
+### Added
+
+- Updated border colors and Golang colors.
+
 ## [1.0.1] - 2024-05-30
 
 ### Added
