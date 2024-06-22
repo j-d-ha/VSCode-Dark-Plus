@@ -4,6 +4,16 @@
 
 ## [Unreleased]
 
+## [1.0.4] - 2024-06-22
+
+### Changed
+
+- Removed unused default code.
+
+### Added
+
+- Added plugin icon.
+
 ## [1.0.3] - 2024-06-02
 
 ### Added

@@ -2,7 +2,7 @@
   "name": "Dark+ Alt",
   "dark": true,
   "author": "Jonas Ha",
-  "editorScheme": "/theme/vscode-dark-plus.xml",
+  "editorScheme": "/theme/dark-plus.xml",
   "colors": {
     "darkGray": "#1e1e1e",
     "mediumGray": "#252526",
